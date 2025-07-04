@@ -25,6 +25,8 @@ if (!$ARGV[0]) {
     print "./get_version_from_scc.pl qemu-kvm 2582,2421 \n\n";
     print "HPC SLE15SP6: aarch64 2613 | x86_64 2614 \n";
     print "HPC SLE15SP5: aarch64 2469 | x86_64 2470 \n";
+    print "SLE16: aarch64 2931 | 2930 x86_64\n";
+    print "SLE15SP7: aarch64 2790 | x86_64 2793 \n";
     print "SLE15SP6: aarch64 2606 | x86_64 2608 \n";
     print "SLE15SP5: aarch64 2462 | x86_64 2465 \n";
     print "\n ";

@@ -32,6 +32,6 @@ sub check_var {
 
 my $aref = $data->{data};
 for my $element (@$aref) {
-    print "SCC ID: $element->{id} | $element->{name} $element->{edition} ($element->{architecture})\n";
+    print "SCC ID: $element->{id} | $element->{name} $element->{version} ($element->{architecture})\n";
 }
 
